@@ -143,6 +143,9 @@ Merging:
   Merging is safer then rebasing but can make slightly more nasty commit
   histories.
 
+A good place to learn more is
+[http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
+
 Git Blame
 ---------
 
