@@ -6,6 +6,9 @@ git workshop, following on from another given [an introduction to
 Git](https://github.com/hackersatcambridge/workshops-git-intro). You can find
 the slides of the presentation [here](http://codepen.io/Moosichu/pen/vGLYLp).
 
+Please give feedback on the workshop at:
+[http://goo.gl/forms/zZmpEDifPZ](http://goo.gl/forms/zZmpEDifPZ)
+
 Below you can find a useful summary of the topics covered:
 
 How to set default text editor for commit messages
